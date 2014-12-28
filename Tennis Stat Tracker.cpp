@@ -42,16 +42,6 @@ void getPointScoreAd(int& pointScore)
 	}
 }
 
-class score
-{
-public:
-
-private:
-	int m_setScore;
-	int m_gameScore;
-	int m_pointScore;
-};
-
 int main()
 {
 	int setScoreP1 = 0, setScoreP2 = 0, gameScoreP1 = 0, gameScoreP2 = 0, pointScoreP1 = 0, pointScoreP2 = 0;
